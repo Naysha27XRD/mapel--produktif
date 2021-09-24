@@ -4,3 +4,4 @@ Mata pelajaran produktif
 3.komputer jaringan dasar
 4.fisika
 5.desain grafis
+6.sistem komputer
